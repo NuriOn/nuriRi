@@ -1,2 +1,2 @@
-# nuriRi
-personal web application
+#nuriRi
+Personal Web Application
